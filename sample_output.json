@@ -1,0 +1,55 @@
+{
+  "title": "Understanding Artificial Intelligence",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "What is AI?",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Machine Learning",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Deep Learning",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "AI Applications",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Natural Language Processing",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Computer Vision",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "Future of AI",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Challenges",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Opportunities",
+      "page": 10
+    }
+  ]
+}

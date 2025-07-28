@@ -1,0 +1,12 @@
+# Create requirements.txt
+requirements_content = '''# PDF processing library - main dependency
+PyMuPDF==1.24.5
+
+# Additional utilities (keeping minimal for image size)
+pathlib2==2.3.7
+'''
+
+with open('requirements.txt', 'w') as f:
+    f.write(requirements_content)
+
+print("Created requirements.txt")
